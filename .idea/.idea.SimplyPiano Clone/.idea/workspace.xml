@@ -1,0 +1,1742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e1100a1-a556-4ceb-889e-e830c2955091" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/MidiPianoController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="118" column="44" selection-start-line="118" selection-start-column="44" selection-end-line="118" selection-end-column="44" />
+              <folding>
+                <marker date="1634564094849" expanded="true" signature="6:149" ph="..." />
+                <marker date="1634564094849" expanded="true" signature="199:4626" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="988:1516" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="1574:1647" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="1677:2920" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="1767:2718" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="1906:2708" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="2763:2914" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="2956:3983" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="3023:3088" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="3101:3195" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="4024:4137" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="4176:4423" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="4464:4534" ph="{...}" />
+                <marker date="1634564094849" expanded="true" signature="4565:4624" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/SplashScreen Script/SplashScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+              <folding>
+                <marker date="1634564196275" expanded="false" signature="6:140" ph="..." />
+                <marker date="1634564196275" expanded="true" signature="183:736" ph="{...}" />
+                <marker date="1634564196275" expanded="true" signature="255:502" ph="{...}" />
+                <marker date="1634564196275" expanded="true" signature="279:439" ph="/* if (!Permission.HasUserAuthorizedPermission(Permission.Microphone)) ... */" />
+                <marker date="1634564196275" expanded="true" signature="533:655" ph="{...}" />
+                <marker date="1634564196275" expanded="true" signature="713:734" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MidiJack/MidiDroid/MidiDroid.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+              <folding>
+                <marker date="1634564653503" expanded="false" signature="6:114" ph="..." />
+                <marker date="1634564653503" expanded="true" signature="134:7548" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="163:7530" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="692:2005" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="789:898" ph="/* _class = new AndroidJavaClass(&quot;mmmlabs.com.mididroid.MidiDroid&quot;); ... */" />
+                <marker date="1634564653503" expanded="true" signature="1278:1375" ph="/* midiCallback = new MidiReceiver(); ... */" />
+                <marker date="1634564653503" expanded="true" signature="1510:1957" ph="/* string currentDeviceName = UnityEngine.PlayerPrefs.GetString(&quot;MidiDroidDevice&quot;, &quot;&quot;); ... */" />
+                <marker date="1634564653503" expanded="true" signature="2056:2996" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="2329:2805" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="2822:2971" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="3058:3134" ph="{...}" />
+                <marker date="1634564653503" expanded="false" signature="3144:5513" ph="MidiJack Methods" />
+                <marker date="1634564653503" expanded="true" signature="3212:4646" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="3406:4466" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="3612:3874" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="3651:3856" ph="/* return empty message ... */" />
+                <marker date="1634564653503" expanded="true" signature="3895:4452" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="4051:4212" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="4233:4434" ph="/* m.source = (uint)currentDevice; ... */" />
+                <marker date="1634564653503" expanded="true" signature="4483:4614" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="4690:5221" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="4746:5105" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="4904:5004" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="5025:5091" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="5122:5176" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="5266:5308" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="5361:5403" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="5451:5494" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="5577:5888" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="5701:5851" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="5769:5837" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="5942:6158" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="6199:6585" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="6279:6376" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="6473:6533" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="6622:7519" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="6895:7316" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="7171:7302" ph="{...}" />
+                <marker date="1634564653503" expanded="true" signature="7333:7482" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Example Note/NoteIndicatorGroup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1492879458000" expanded="true" signature="67:372" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="117:370" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="161:364" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Example Note/NoteIndicator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1634311372021" expanded="true" signature="6:34" ph="..." />
+                <marker date="1634311372021" expanded="true" signature="78:868" ph="{...}" />
+                <marker date="1634311372021" expanded="true" signature="126:866" ph="{...}" />
+                <marker date="1634311372021" expanded="true" signature="245:378" ph="/* var color = MidiMaster.GetKeyDown(noteNumber) ? Color.red : Color.white; ... */" />
+                <marker date="1634311372021" expanded="true" signature="426:618" ph="{...}" />
+                <marker date="1634311372021" expanded="true" signature="631:824" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MidiJack/MidiMaster.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-296">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+              <folding>
+                <marker date="1492879458000" expanded="true" signature="0:1170" ph="/* MidiJack - MIDI Input Plugin for Unity ... */" />
+                <marker date="1492879458000" expanded="true" signature="1189:3783" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="1226:3781" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="1328:1466" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="1533:1673" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="1734:1868" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="2001:2089" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="2141:2237" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="2387:2479" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="2534:2634" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="2778:2868" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="2921:3019" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="3124:3208" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="3254:3346" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="3484:3587" ph="{...}" />
+                <marker date="1492879458000" expanded="true" signature="3664:3775" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MidiJack/MidiDroid/MidiDroidCallback.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+              <folding>
+                <marker date="1634564653598" expanded="false" signature="6:32" ph="..." />
+                <marker date="1634564653598" expanded="true" signature="52:1868" ph="{...}" />
+                <marker date="1634564653598" expanded="true" signature="107:1866" ph="{...}" />
+                <marker date="1634564653598" expanded="true" signature="208:228" ph="{...}" />
+                <marker date="1634564653598" expanded="true" signature="316:336" ph="{...}" />
+                <marker date="1634564653598" expanded="true" signature="354:461" ph="/* public MidiDroidCallback() : base(&quot;mmmlabs.com.mididroid.MidiCallback&quot;) ... */" />
+                <marker date="1634564653598" expanded="true" signature="710:1851" ph="{...}" />
+                <marker date="1634564653598" expanded="true" signature="1036:1136" ph="{...}" />
+                <marker date="1634564653598" expanded="true" signature="1153:1418" ph="{...}" />
+                <marker date="1634564653598" expanded="true" signature="1450:1788" ph="{...}" />
+                <marker date="1634564653598" expanded="true" signature="1507:1774" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/KeysScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1075">
+              <caret line="109" selection-start-line="109" selection-end-line="109" />
+              <folding>
+                <marker date="1634715090312" expanded="true" signature="6:116" ph="..." />
+                <marker date="1634715090312" expanded="true" signature="157:5591" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="407:505" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="563:1000" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="788:965" ph="/* if (!MidiNoteReceptor.isMicrophonePitchDetectionUsed) ... */" />
+                <marker date="1634715090312" expanded="true" signature="1007:2107" ph="Midi Key Indicator" />
+                <marker date="1634715090312" expanded="true" signature="1075:1758" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="1184:1386" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="1399:1451" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="1544:1621" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="1634:1708" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="1786:1827" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="1855:1914" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="1966:2090" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="2150:3543" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="2221:2694" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="2287:2663" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="2390:2624" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="2741:2952" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="2864:2936" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="2993:3147" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="3061:3133" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="3189:3535" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="3449:3521" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="3569:3622" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="3643:3723" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="3758:3844" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="3865:4027" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="3925:4021" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="4058:4262" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="4290:4777" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="4386:4771" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="4504:4747" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="4846:5589" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="5110:5583" ph="{...}" />
+                <marker date="1634715090312" expanded="true" signature="5315:5570" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CourseTaskScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="885">
+              <caret line="70" column="5" selection-start-line="50" selection-start-column="3" selection-end-line="70" selection-end-column="5" />
+              <folding>
+                <marker date="1634550622985" expanded="false" signature="6:135" ph="..." />
+                <marker date="1634550622985" expanded="true" signature="182:2089" ph="{...}" />
+                <marker date="1634550622985" expanded="true" signature="398:698" ph="{...}" />
+                <marker date="1634550622985" expanded="true" signature="756:777" ph="{...}" />
+                <marker date="1634550622985" expanded="true" signature="811:886" ph="{...}" />
+                <marker date="1634550622985" expanded="true" signature="924:1077" ph="{...}" />
+                <marker date="1634550622985" expanded="true" signature="1116:1270" ph="{...}" />
+                <marker date="1634550622985" expanded="true" signature="1344:2087" ph="{...}" />
+                <marker date="1634550622985" expanded="true" signature="1608:2081" ph="{...}" />
+                <marker date="1634550622985" expanded="true" signature="1813:2068" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MidiJack/MidiDriver.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2490">
+              <caret line="184" column="20" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="20" />
+              <folding>
+                <marker date="1634564653419" expanded="true" signature="0:1170" ph="/* MidiJack - MIDI Input Plugin for Unity ... */" />
+                <marker date="1634564653419" expanded="false" signature="1177:1261" ph="..." />
+                <marker date="1634564653419" expanded="true" signature="1281:12132" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="1311:12130" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="1326:2108" ph="Internal Data" />
+                <marker date="1634564653419" expanded="true" signature="1375:1957" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="1398:1641" ph="/* Note state array ... */" />
+                <marker date="1634564653419" expanded="true" signature="1817:1947" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="2118:3425" ph="Accessor Methods" />
+                <marker date="1634564653419" expanded="true" signature="2208:2425" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="2494:2619" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="2686:2811" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="2869:3100" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="3187:3405" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="3435:3921" ph="Event Delegates" />
+                <marker date="1634564653419" expanded="true" signature="3931:4827" ph="Editor Support" />
+                <marker date="1634564653419" expanded="true" signature="4120:4397" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="4274:4361" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="4500:4620" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="4518:4610" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="4736:4791" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="4837:5245" ph="Public Methods" />
+                <marker date="1634564653419" expanded="true" signature="4881:5225" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="5255:8843" ph="Private Methods" />
+                <marker date="1634564653419" expanded="true" signature="5309:5832" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="5383:5668" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="5484:5654" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="5685:5822" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="5855:8823" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="5955:6313" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="6015:6299" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="6448:8638" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="6909:7338" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="7456:7794" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="7865:8440" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="8853:11163" ph="Native Plugin Interface" />
+                <marker date="1634564653419" expanded="true" signature="11165:12124" ph="Singleton Class Instance" />
+                <marker date="1634564653419" expanded="true" signature="11279:12104" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="11297:12094" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="11338:12046" ph="{...}" />
+                <marker date="1634564653419" expanded="true" signature="11499:12028" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Unity-MIDI-Piano-1.0/Unity-MIDI-Piano-1.0/Assets/Scripts/MusicText.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioSensor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/Demo/Scripts/DemoUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoteReceptor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Unity-MIDI-Piano-1.0/Unity-MIDI-Piano-1.0/Assets/Scripts/Piano/PianoKeyController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Unity-MIDI-Piano-1.0/Unity-MIDI-Piano-1.0/Assets/Scripts/Piano/PianoKey.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Unity-MIDI-Piano-1.0/Unity-MIDI-Piano-1.0/Assets/Scripts/Piano/MidiPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/PitchTracker/PitchDsp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KeysScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Testing Scene/FastYinCheckerChord.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/Behaviours/SineInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MidiNoteReceptor.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MidiNoteReceptor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/Components/PitchDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/Components/MicrophoneInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Augmented_Estate/Assets/AugmentedEstate/Script/LoginScript/LoginManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/piano-player-master/piano-player-master/Assets/Scripts/Logic/PlayMidi.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Augmented_Estate/Assets/Codelab/Scripts/CodelabUtils.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Testing Scene/FastYinChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Unity-Piano-Hero-master/Unity-Piano-Hero-master/Assets/Scripts/NoteModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CourseTouchIntroScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Unity-Piano-Hero-master/Unity-Piano-Hero-master/Assets/Scripts/SongControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/pitchtracker/sourceCode/sourceCode/PitchTracker/Pitch/PitchTracker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KeyGameObjectHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Unity-Piano-Hero-master/Unity-Piano-Hero-master/Assets/Scripts/pianoKey.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidiJack/MidiDroid/MidiDroidCallback.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/pitchtracker/sourceCode/sourceCode/PitchTracker/Pitch/PitchDsp.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GetAudioSource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/RhythmGameTutorialProject-main/RhythmGameTutorialProject-main/Assets/Scripts/SongManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7117D168-A9EC-4E51-8E0D-E7D9C98BD09A/c6/43b22684/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidiJack/MidiDroid/MidiDroid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConstantStrings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/RhythmGameTutorialProject-main/RhythmGameTutorialProject-main/Assets/Scripts/ScoreManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Important/PianoHero-1.0/PianoHero-1.0/PitchDetection/Assets/Scripts/InstantiatePiano.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Important/PianoHero-1.0/PianoHero-1.0/PitchDetection/Assets/Scripts/NotesInteractionHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/StencilMaterial.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Important/PianoHero-1.0/PianoHero-1.0/PitchDetection/Assets/Scripts/PitchDetector.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Testing Scene/ChromaChordTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/RhythmGameTutorialProject-main/RhythmGameTutorialProject-main/Assets/Scripts/Lane.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/RhythmGameTutorialProject-main/RhythmGameTutorialProject-main/Assets/Scripts/Note.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Important/PianoHero-1.0/PianoHero-1.0/PitchDetection/Assets/Scripts/ParamCube.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Important/PianoHero-1.0/PianoHero-1.0/PitchDetection/Assets/Scripts/Instantiate512.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Important/PianoHero-1.0/PianoHero-1.0/PitchDetection/Assets/Scripts/FFTFreqBand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Important/PianoHero-1.0/PianoHero-1.0/PitchDetection/Assets/StartGame.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Important/PianoHero-1.0/PianoHero-1.0/PitchDetection/Assets/NoteDestroyer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CourseSheetLaneScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Testing Scene/ChromaChromagramC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidiJack/MidiMaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/MidiPianoController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/PlayMidiToNote.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/SheetLaneScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/SheetNoteScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Unity-MIDI-Piano-1.0/Unity-MIDI-Piano-1.0/Assets/Scripts/NAudio/MidiFileInspector.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../NoteFab/NoteFab/Assets/Scripts/Main Script/MainScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/SongSelection Scripts/SongSelectionScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidiJack/MidiStateUpdater.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidiJack/MidiDriver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/SplashScreen Script/SplashScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CourseTaskScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/Important/PianoHero-1.0/PianoHero-1.0/PitchDetection/Assets/DontDestroy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MidiJack/Midi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example Note/NoteIndicator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/FastYin/PitchDetectionResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ml-agents@1.7.2-preview/Runtime/Academy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MidiFileConverter/MidiFileInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CoursePianoPanelScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example Note/NoteIndicatorGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../VocalImageAR/Assets/Scripts/PictureScene Scripts/PictureScriptGeneral.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/FastYin/ConcurrencyUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/FastYin/FastYin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example CC/KnobIndicator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MidiFileConverter/MidiPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/FastYin/FloatFFT.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SheetNoteSymbolScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/DoubleFFT_1D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/piano-player-master/piano-player-master/Assets/Scripts/Key/KeySound.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../XR Learning Resources/Simply Piano Resources/piano-player-master/piano-player-master/Assets/Scripts/Key/KeyMidiReceiver.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ML Chord Detection/Scripts/ChordDetection/Chord.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PianoScreen Script/KeysScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chord Detection/Chromagram.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chord Detection/kiss_fft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chord Detection/Chordj.cs" />
+        <option value="$USER_HOME$/Downloads/DoubleFFT_1D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ML Chord Detection/DoubleFFT_1D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chord Detection/DoubleFFT_1D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chord Detection/AudioAnalyzer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chord Detection/AudioData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chroma Scripts/Chroma/Consts/IirFilterCoeffB.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chroma Scripts/Chroma/Consts/IirFilterCoeffA.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chroma Scripts/Chroma/chroma/ChromaHelpers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chroma Scripts/Chroma/chroma/Pitch2CENS.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chroma Scripts/Chroma/Consts/ChromaConsts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chroma Scripts/Chroma/chroma/iSignal2Chroma.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chroma Scripts/Chroma/chroma/Pitch2Chroma.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chroma Scripts/Chroma/chroma/FilterCoefficientsEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chroma Scripts/Chroma/chroma/Chroma.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chroma Scripts/ChordDetector/ChromaChordDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ML Chord Detection/Scripts/ChordDetection/AgentInference.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SplashScreen Script/SplashScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chord Detection/ChordDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Testing Scene/ChromaChromagramC.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ML Chord Detection/Scripts/ChordDetection/Note.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Testing Scene/FastYinChecker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Testing Scene/ChromaChordTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ML Chord Detection/Scripts/ChordDetection/PianoKeys.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Testing Scene/FastYinCheckerChord.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CourseTaskScene Script/CourseTaskScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DebugMidiCode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example Note/NoteIndicator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SongSelection Scripts/SongSelectionScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NoteReceptor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayMidiOnPiano/PlayMidiToNote.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SheetNoteSymbolScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/SheetLaneScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MidiNoteReceptor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CourseSheetLaneScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConstantStrings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CourseTouchIntroScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/SheetNoteScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CoursePianoPanelScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CourseTaskScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Useful Script/SongSelection Scripts/SongSelectionScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/MidiPianoController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Useful Script/SplashScreen Script/SplashScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidiJack/MidiDriver.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidiJack/MidiDroid/MidiDroid.cs" />
+        <option value="$PROJECT_DIR$/Assets/MidiJack/MidiDroid/MidiDroidCallback.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeysScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e1100a1-a556-4ceb-889e-e830c2955091" name="Default Changelist" comment="" />
+      <created>1630618238549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630618238549</updated>
+      <workItem from="1630618272980" duration="40629000" />
+      <workItem from="1630756603205" duration="40832000" />
+      <workItem from="1631102655930" duration="36478000" />
+      <workItem from="1631377919582" duration="2768000" />
+      <workItem from="1631464701282" duration="6866000" />
+      <workItem from="1631528315685" duration="11856000" />
+      <workItem from="1631710089060" duration="17136000" />
+      <workItem from="1631881947474" duration="1536000" />
+      <workItem from="1631892849559" duration="5195000" />
+      <workItem from="1631914223124" duration="95147000" />
+      <workItem from="1632819067238" duration="2099000" />
+      <workItem from="1634305536708" duration="34741000" />
+      <workItem from="1634509947045" duration="9621000" />
+      <workItem from="1634520348833" duration="2795000" />
+      <workItem from="1634545586601" duration="15320000" />
+      <workItem from="1634597689629" duration="1252000" />
+      <workItem from="1634714798194" duration="2080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="326351000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19970739" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="1" />
+      <window_info anchor="bottom" id="Unit Tests" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Performance Profiler" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.unity.ml-agents@2.0.0/Editor/BehaviorParametersEditor.cs</url>
+          <line>108</line>
+          <properties documentPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ml-agents@2.0.0/Editor/BehaviorParametersEditor.cs" initialLine="108" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Chord Detection/ChordDetector.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/FastYin/PitchDetectionResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-801">
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1550995108000" expanded="true" signature="33:1959" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="40:78" ph="/* The pitch in Hertz. ... */" />
+            <marker date="1550995108000" expanded="true" signature="197:280" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="286:449" ph="/* A copy constructor. Since PitchDetectionResult objects are reused for performance reasons, creating a copy can ... */" />
+            <marker date="1550995108000" expanded="true" signature="509:639" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="646:692" ph="/* @return The pitch in Hertz. ... */" />
+            <marker date="1550995108000" expanded="true" signature="720:754" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="793:833" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="839:900" ph="/* (non-Javadoc) ... */" />
+            <marker date="1550995108000" expanded="true" signature="940:999" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="1005:1403" ph="/* @return A probability (noisiness, (a)periodicity, salience, voicedness or ... */" />
+            <marker date="1550995108000" expanded="true" signature="1437:1477" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="1528:1580" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="1586:1807" ph="/* @return Whether the algorithm thinks the block of audio is pitched. Keep ... */" />
+            <marker date="1550995108000" expanded="true" signature="1835:1871" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="1913:1957" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/FastYin/ConcurrencyUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3507">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <marker date="1550995108000" expanded="true" signature="0:251" ph="/* package be.tarsos.dsp.util; ... */" />
+            <marker date="1550995108000" expanded="true" signature="268:360" ph="/* Concurrency utilities. ... */" />
+            <marker date="1550995108000" expanded="true" signature="390:7697" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="393:4952" ph="/* Thread pool. ... */" />
+            <marker date="1550995108000" expanded="true" signature="4960:5158" ph="/* Resets the minimal size of 2D and 3D data for which threads are used. ... */" />
+            <marker date="1550995108000" expanded="true" signature="5160:5324" ph="/* Returns the closest power-of-two number greater than or equal to x. ... */" />
+            <marker date="1550995108000" expanded="true" signature="5358:5931" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="5472:5541" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="5550:5699" ph="/* x |= (x &gt;&gt;&gt; 1); ... */" />
+            <marker date="1550995108000" expanded="true" signature="5933:6312" ph="/* Returns the closest power-of-two number less than or equal to x. ... */" />
+            <marker date="1550995108000" expanded="true" signature="6320:6436" ph="/* Checks if x is a power-of-two number. ... */" />
+            <marker date="1550995108000" expanded="true" signature="6473:6559" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="6561:7695" ph="/* Causes the currently executing thread to sleep (temporarily cease ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/FastYin/FastYin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3044">
+          <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+          <folding>
+            <marker date="1550995108000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1550995108000" expanded="true" signature="100:10429" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="154:276" ph="/* The default YIN threshold value. Should be around 0.10~0.15. See YIN ... */" />
+            <marker date="1550995108000" expanded="true" signature="343:411" ph="/* The default size of an audio buffer (in samples). ... */" />
+            <marker date="1550995108000" expanded="true" signature="476:561" ph="/* The default overlap of two consecutive audio buffers (in samples). ... */" />
+            <marker date="1550995108000" expanded="true" signature="622:666" ph="/* The actual YIN threshold. ... */" />
+            <marker date="1550995108000" expanded="true" signature="711:793" ph="/* The audio sample rate. Most audio has a sample rate of 44.1kHz. ... */" />
+            <marker date="1550995108000" expanded="true" signature="838:958" ph="/* The buffer that stores the calculated values. It is exactly half the size ... */" />
+            <marker date="1550995108000" expanded="true" signature="1004:1067" ph="/* The result of the pitch detection iteration. ... */" />
+            <marker date="1550995108000" expanded="true" signature="1176:1252" ph="/* Holds the FFT data, twice the length of the audio buffer. ... */" />
+            <marker date="1550995108000" expanded="true" signature="1303:1374" ph="/* Half of the data, disguised as a convolution kernel. ... */" />
+            <marker date="1550995108000" expanded="true" signature="1417:1542" ph="/* Buffer to allow convolution via complex multiplication. It calculates the auto correlation function (ACF). ... */" />
+            <marker date="1550995108000" expanded="true" signature="1590:1668" ph="/* An FFT object to quickly calculate the difference function. ... */" />
+            <marker date="1550995108000" expanded="true" signature="1709:2040" ph="/* Create a new pitch detector for a stream with the defined sample rate. ... */" />
+            <marker date="1550995108000" expanded="true" signature="2161:2173" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="2179:2687" ph="/* Create a new pitch detector for a stream with the defined sample rate. ... */" />
+            <marker date="1550995108000" expanded="true" signature="2766:3187" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="3193:3387" ph="/* The main flow of the YIN algorithm. Returns a pitch value in Hz or -1 if ... */" />
+            <marker date="1550995108000" expanded="true" signature="3449:4291" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="3738:4127" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="3829:4066" ph="/* step 6 ... */" />
+            <marker date="1550995108000" expanded="true" signature="4140:4221" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="4297:4445" ph="/* Implements the difference function as described in step 2 of the YIN ... */" />
+            <marker date="1550995108000" expanded="true" signature="4494:6546" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="4509:4602" ph="/* POWER TERM CALCULATION ... */" />
+            <marker date="1550995108000" expanded="true" signature="4711:4793" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="4928:5121" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="5131:5186" ph="/* YIN-STYLE AUTOCORRELATION via FFT ... */" />
+            <marker date="1550995108000" expanded="true" signature="5239:5354" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="5516:5748" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="5891:6176" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="6233:6320" ph="/* CALCULATION OF difference function ... */" />
+            <marker date="1550995108000" expanded="true" signature="6371:6540" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="6552:6743" ph="/* The cumulative mean normalized difference function as described in step 3 ... */" />
+            <marker date="1550995108000" expanded="true" signature="6797:7045" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="6929:7039" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="7051:7111" ph="/* Implements step 4 of the AUBIO_YIN paper. ... */" />
+            <marker date="1550995108000" expanded="true" signature="7147:8585" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="7162:7233" ph="/* Uses another loop construct ... */" />
+            <marker date="1550995108000" expanded="true" signature="7259:7350" ph="/* first two positions in yinBuffer are always 1 ... */" />
+            <marker date="1550995108000" expanded="true" signature="7403:8227" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="7457:8217" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="7561:7624" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="7641:8121" ph="/* found tau, exit loop and return ... */" />
+            <marker date="1550995108000" expanded="true" signature="8370:8488" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="8501:8558" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="8591:9065" ph="/* Implements step 5 of the AUBIO_YIN paper. It refines the estimated tau ... */" />
+            <marker date="1550995108000" expanded="true" signature="9123:10427" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="9216:9266" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="9279:9333" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="9381:9435" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="9448:9498" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="9529:9752" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="9596:9665" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="9682:9742" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="9788:10011" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="9855:9924" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="9941:10001" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="10024:10395" ph="{...}" />
+            <marker date="1550995108000" expanded="true" signature="10182:10309" ph="/* fixed AUBIO implementation, thanks to Karl Helgason: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/PitchDetector/FastYin/FloatFFT.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="5663" selection-start-line="5663" selection-end-line="5663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Testing Scene/ChromaChromagramC.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="271" column="17" selection-start-line="271" selection-start-column="17" selection-end-line="271" selection-end-column="17" />
+          <folding>
+            <marker date="1632350545580" expanded="true" signature="6:110" ph="..." />
+            <marker date="1632350545580" expanded="true" signature="142:10183" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="1060:1652" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="1387:1495" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="1574:1628" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="1735:2462" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="2206:2314" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="2393:2447" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="2594:4075" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="2618:2760" ph="/* :  referenceFrequency(55.0)          // A1 ... */" />
+            <marker date="1632350545580" expanded="true" signature="3413:3521" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="3600:3654" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="4135:4345" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="4399:4451" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="4514:4611" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="4680:4998" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="4708:4992" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="5070:5193" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="5121:5187" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="5258:5675" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="5378:5455" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="5489:5553" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="5595:5659" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="5737:6993" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="5918:6897" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="6022:6804" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="6140:6751" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="6503:6672" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="6564:6650" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="7033:7072" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="7163:7184" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="7241:8566" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="7393:8463" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="7515:8200" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="7999:8109" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="8259:8352" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="8609:10144" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="8800:10042" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="8922:9905" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="9066:9822" ph="{...}" />
+            <marker date="1632350545580" expanded="true" signature="9514:9639" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/SimpleFileBrowser/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Testing Scene/FastYinCheckerChord.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding>
+            <marker date="1632511824635" expanded="false" signature="6:78" ph="..." />
+            <marker date="1632511824635" expanded="true" signature="112:10476" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="166:288" ph="/* The default YIN threshold value. Should be around 0.10~0.15. See YIN ... */" />
+            <marker date="1632511824635" expanded="true" signature="370:438" ph="/* The default size of an audio buffer (in samples). ... */" />
+            <marker date="1632511824635" expanded="true" signature="503:588" ph="/* The default overlap of two consecutive audio buffers (in samples). ... */" />
+            <marker date="1632511824635" expanded="true" signature="649:693" ph="/* The actual YIN threshold. ... */" />
+            <marker date="1632511824635" expanded="true" signature="738:820" ph="/* The audio sample rate. Most audio has a sample rate of 44.1kHz. ... */" />
+            <marker date="1632511824635" expanded="true" signature="865:985" ph="/* The buffer that stores the calculated values. It is exactly half the size ... */" />
+            <marker date="1632511824635" expanded="true" signature="1031:1094" ph="/* The result of the pitch detection iteration. ... */" />
+            <marker date="1632511824635" expanded="true" signature="1203:1279" ph="/* Holds the FFT data, twice the length of the audio buffer. ... */" />
+            <marker date="1632511824635" expanded="true" signature="1330:1401" ph="/* Half of the data, disguised as a convolution kernel. ... */" />
+            <marker date="1632511824635" expanded="true" signature="1444:1569" ph="/* Buffer to allow convolution via complex multiplication. It calculates the auto correlation function (ACF). ... */" />
+            <marker date="1632511824635" expanded="true" signature="1617:1695" ph="/* An FFT object to quickly calculate the difference function. ... */" />
+            <marker date="1632511824635" expanded="true" signature="1736:2067" ph="/* Create a new pitch detector for a stream with the defined sample rate. ... */" />
+            <marker date="1632511824635" expanded="true" signature="2200:2212" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="2218:2726" ph="/* Create a new pitch detector for a stream with the defined sample rate. ... */" />
+            <marker date="1632511824635" expanded="true" signature="2817:3238" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="3244:3438" ph="/* The main flow of the YIN algorithm. Returns a pitch value in Hz or -1 if ... */" />
+            <marker date="1632511824635" expanded="true" signature="3500:4342" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="3789:4178" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="3880:4117" ph="/* step 6 ... */" />
+            <marker date="1632511824635" expanded="true" signature="4191:4272" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="4348:4496" ph="/* Implements the difference function as described in step 2 of the YIN ... */" />
+            <marker date="1632511824635" expanded="true" signature="4544:6596" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="4559:4652" ph="/* POWER TERM CALCULATION ... */" />
+            <marker date="1632511824635" expanded="true" signature="4761:4843" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="4978:5171" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="5181:5236" ph="/* YIN-STYLE AUTOCORRELATION via FFT ... */" />
+            <marker date="1632511824635" expanded="true" signature="5289:5404" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="5566:5798" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="5941:6226" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="6283:6370" ph="/* CALCULATION OF difference function ... */" />
+            <marker date="1632511824635" expanded="true" signature="6421:6590" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="6602:6793" ph="/* The cumulative mean normalized difference function as described in step 3 ... */" />
+            <marker date="1632511824635" expanded="true" signature="6846:7094" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="6978:7088" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="7100:7160" ph="/* Implements step 4 of the AUBIO_YIN paper. ... */" />
+            <marker date="1632511824635" expanded="true" signature="7195:8633" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="7210:7281" ph="/* Uses another loop construct ... */" />
+            <marker date="1632511824635" expanded="true" signature="7307:7398" ph="/* first two positions in yinBuffer are always 1 ... */" />
+            <marker date="1632511824635" expanded="true" signature="7451:8275" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="7505:8265" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="7609:7672" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="7689:8169" ph="/* found tau, exit loop and return ... */" />
+            <marker date="1632511824635" expanded="true" signature="8418:8536" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="8549:8606" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="8639:9113" ph="/* Implements step 5 of the AUBIO_YIN paper. It refines the estimated tau ... */" />
+            <marker date="1632511824635" expanded="true" signature="9170:10474" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="9263:9313" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="9326:9380" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="9428:9482" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="9495:9545" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="9576:9799" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="9643:9712" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="9729:9789" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="9835:10058" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="9902:9971" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="9988:10048" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="10071:10442" ph="{...}" />
+            <marker date="1632511824635" expanded="true" signature="10229:10356" ph="/* fixed AUBIO implementation, thanks to Karl Helgason: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CourseTaskScene Script/CourseTaskScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ML Chord Detection/Scripts/ChordDetection/Chord.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SplashScreen Script/SplashScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ML Chord Detection/Scripts/ChordDetection/Note.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Example CC/KnobIndicator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <marker date="1492879458000" expanded="false" signature="6:34" ph="..." />
+            <marker date="1492879458000" expanded="true" signature="78:316" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="125:182" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="201:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DebugMidiCode.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PianoScreen Script/NotesInteractionHandler.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ML Chord Detection/Scripts/ChordDetection/PianoKeys.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SongSelection Scripts/SongSelectionScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Testing Scene/FastYinChecker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4590">
+          <caret line="308" column="9" selection-start-line="308" selection-start-column="9" selection-end-line="308" selection-end-column="9" />
+          <folding>
+            <marker date="1632504185944" expanded="false" signature="6:78" ph="..." />
+            <marker date="1632504185944" expanded="true" signature="107:10461" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="161:283" ph="/* The default YIN threshold value. Should be around 0.10~0.15. See YIN ... */" />
+            <marker date="1632504185944" expanded="true" signature="365:433" ph="/* The default size of an audio buffer (in samples). ... */" />
+            <marker date="1632504185944" expanded="true" signature="498:583" ph="/* The default overlap of two consecutive audio buffers (in samples). ... */" />
+            <marker date="1632504185944" expanded="true" signature="644:688" ph="/* The actual YIN threshold. ... */" />
+            <marker date="1632504185944" expanded="true" signature="733:815" ph="/* The audio sample rate. Most audio has a sample rate of 44.1kHz. ... */" />
+            <marker date="1632504185944" expanded="true" signature="860:980" ph="/* The buffer that stores the calculated values. It is exactly half the size ... */" />
+            <marker date="1632504185944" expanded="true" signature="1026:1089" ph="/* The result of the pitch detection iteration. ... */" />
+            <marker date="1632504185944" expanded="true" signature="1198:1274" ph="/* Holds the FFT data, twice the length of the audio buffer. ... */" />
+            <marker date="1632504185944" expanded="true" signature="1325:1396" ph="/* Half of the data, disguised as a convolution kernel. ... */" />
+            <marker date="1632504185944" expanded="true" signature="1439:1564" ph="/* Buffer to allow convolution via complex multiplication. It calculates the auto correlation function (ACF). ... */" />
+            <marker date="1632504185944" expanded="true" signature="1612:1690" ph="/* An FFT object to quickly calculate the difference function. ... */" />
+            <marker date="1632504185944" expanded="true" signature="1731:2062" ph="/* Create a new pitch detector for a stream with the defined sample rate. ... */" />
+            <marker date="1632504185944" expanded="true" signature="2190:2202" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="2208:2716" ph="/* Create a new pitch detector for a stream with the defined sample rate. ... */" />
+            <marker date="1632504185944" expanded="true" signature="2802:3223" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="3229:3423" ph="/* The main flow of the YIN algorithm. Returns a pitch value in Hz or -1 if ... */" />
+            <marker date="1632504185944" expanded="true" signature="3485:4327" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="3774:4163" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="3865:4102" ph="/* step 6 ... */" />
+            <marker date="1632504185944" expanded="true" signature="4176:4257" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="4333:4481" ph="/* Implements the difference function as described in step 2 of the YIN ... */" />
+            <marker date="1632504185944" expanded="true" signature="4529:6581" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="4544:4637" ph="/* POWER TERM CALCULATION ... */" />
+            <marker date="1632504185944" expanded="true" signature="4746:4828" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="4963:5156" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="5166:5221" ph="/* YIN-STYLE AUTOCORRELATION via FFT ... */" />
+            <marker date="1632504185944" expanded="true" signature="5274:5389" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="5551:5783" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="5926:6211" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="6268:6355" ph="/* CALCULATION OF difference function ... */" />
+            <marker date="1632504185944" expanded="true" signature="6406:6575" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="6587:6778" ph="/* The cumulative mean normalized difference function as described in step 3 ... */" />
+            <marker date="1632504185944" expanded="true" signature="6831:7079" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="6963:7073" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="7085:7145" ph="/* Implements step 4 of the AUBIO_YIN paper. ... */" />
+            <marker date="1632504185944" expanded="true" signature="7180:8618" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="7195:7266" ph="/* Uses another loop construct ... */" />
+            <marker date="1632504185944" expanded="true" signature="7292:7383" ph="/* first two positions in yinBuffer are always 1 ... */" />
+            <marker date="1632504185944" expanded="true" signature="7436:8260" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="7490:8250" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="7594:7657" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="7674:8154" ph="/* found tau, exit loop and return ... */" />
+            <marker date="1632504185944" expanded="true" signature="8403:8521" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="8534:8591" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="8624:9098" ph="/* Implements step 5 of the AUBIO_YIN paper. It refines the estimated tau ... */" />
+            <marker date="1632504185944" expanded="true" signature="9155:10459" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="9248:9298" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="9311:9365" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="9413:9467" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="9480:9530" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="9561:9784" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="9628:9697" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="9714:9774" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="9820:10043" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="9887:9956" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="9973:10033" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="10056:10427" ph="{...}" />
+            <marker date="1632504185944" expanded="true" signature="10214:10341" ph="/* fixed AUBIO implementation, thanks to Karl Helgason: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Testing Scene/ChromaChordTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <folding>
+            <marker date="1632505029540" expanded="true" signature="6:143" ph="..." />
+            <marker date="1632505029540" expanded="true" signature="189:12504" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="1044:1165" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="1208:1449" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="2072:2900" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="2309:2375" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="2958:5985" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="3196:3282" ph="/* float[][] chromas =  chroma.signal2ChromaMethod(sample); ... */" />
+            <marker date="1632505029540" expanded="true" signature="3504:3621" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="3634:5974" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="3901:5964" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="3998:4167" ph="/* chromaC.calculateChromagram(sample,44100,sample.Length); ... */" />
+            <marker date="1632505029540" expanded="true" signature="4797:5131" ph="/* ShowCord.text = $&quot;Chromas[0] : {chromas[0][10]}\nChromas[1]: {chromas[1][10]}\n\nChroma Size: {chromas.Length} ... */" />
+            <marker date="1632505029540" expanded="true" signature="5190:5244" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="5268:5322" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="5337:5395" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="5408:5753" ph="/* ShowCord.text = $&quot;Chromas[0] : {chromaSample[10]}\nChromas[1]: {chromaSample[10]}\n\nChroma Size: {chromaSampl ... */" />
+            <marker date="1632505029540" expanded="true" signature="6025:9132" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="6155:6315" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="6278:6312" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="6360:6439" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="6485:6565" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="6620:6700" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="6754:6834" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="6879:6956" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="7001:7078" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="7128:7205" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="7255:7335" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="7388:7468" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="7545:7656" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="7714:7828" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="7895:8020" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="8086:8211" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="8268:8391" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="8448:8571" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="8633:8754" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="8816:8937" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="9003:9130" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="9298:9504" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="9361:9432" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="9629:9819" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="9715:9797" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="9745:9794" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="9919:12497" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="10111:10178" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="10139:10175" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="10280:10463" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="10507:10690" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="10739:10922" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="10972:11155" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="11200:11383" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="11427:11610" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="11661:11905" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="11955:12199" ph="{...}" />
+            <marker date="1632505029540" expanded="true" signature="12251:12495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NoteReceptor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <marker date="1634323481141" expanded="false" signature="6:174" ph="..." />
+            <marker date="1634323481141" expanded="true" signature="217:790" ph="{...}" />
+            <marker date="1634323481141" expanded="true" signature="688:709" ph="{...}" />
+            <marker date="1634323481141" expanded="true" signature="767:788" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayMidiOnPiano/PlayMidiToNote.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MidiFileConverter/MidiFileInspector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1573280765000" expanded="false" signature="6:121" ph="..." />
+            <marker date="1573280765000" expanded="true" signature="153:4567" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="318:575" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="451:510" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="545:572" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="607:2033" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="753:955" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="812:951" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="825:932" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="1000:1990" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="1059:1986" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="1103:1981" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="1118:1907" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="1407:1706" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="1426:1575" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="1602:1698" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="1717:1810" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="1939:1975" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="2094:2459" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="2112:2435" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="2190:2403" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="2256:2398" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="2463:2519" ph="/// Builds the tempo list ... " />
+            <marker date="1573280765000" expanded="true" signature="2551:3298" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="2705:3295" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="2790:2814" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="2899:2923" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="3165:3256" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="3301:3519" ph="/// Calculates the midi real time in seconds by given Absolute time. ... " />
+            <marker date="1573280765000" expanded="true" signature="3573:4287" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="4052:4161" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="4290:4418" ph="/// Helper class needed for storing tempo events ... " />
+            <marker date="1573280765000" expanded="true" signature="4445:4565" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="4605:4969" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="4762:4769" ph="{...}" />
+            <marker date="1573280765000" expanded="true" signature="4858:4967" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../XR Learning Resources/RhythmGameTutorialProject-main/RhythmGameTutorialProject-main/Assets/Scripts/SongManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../XR Learning Resources/RhythmGameTutorialProject-main/RhythmGameTutorialProject-main/Assets/Scripts/ScoreManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../XR Learning Resources/RhythmGameTutorialProject-main/RhythmGameTutorialProject-main/Assets/Scripts/Lane.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="40" column="62" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../XR Learning Resources/RhythmGameTutorialProject-main/RhythmGameTutorialProject-main/Assets/Scripts/Note.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+            <marker date="1626489337000" expanded="true" signature="113:841" ph="{...}" />
+            <marker date="1626489337000" expanded="true" signature="192:265" ph="{...}" />
+            <marker date="1626489337000" expanded="true" signature="323:839" ph="{...}" />
+            <marker date="1626489337000" expanded="true" signature="538:591" ph="{...}" />
+            <marker date="1626489337000" expanded="true" signature="604:833" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SheetNoteSymbolScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <marker date="1634393835881" expanded="true" signature="6:187" ph="..." />
+            <marker date="1634393835881" expanded="true" signature="239:4733" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="697:799" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="857:1458" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="920:1429" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="951:1037" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="1060:1134" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="1157:1232" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="1255:1325" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="1348:1420" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="1577:1741" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="1751:1802" ph="/* void FixedUpdate() ... */" />
+            <marker date="1634393835881" expanded="true" signature="1822:4643" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="1854:4385" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="1901:4360" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="2395:4345" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="2442:2679" ph="/* float distance = Vector3.Distance(theBlueIndicator.transform.position, Vector3.MoveTowards(gameObject.transfor ... */" />
+            <marker date="1634393835881" expanded="true" signature="3492:4323" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="3737:3987" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="3822:3957" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="4020:4297" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="4105:4238" ph="{...}" />
+            <marker date="1634393835881" expanded="true" signature="4396:4637" ph="/* if (MidiNoteReceptor.isMoveNoteSymbolActive) ... */" />
+            <marker date="1634393835881" expanded="true" signature="4687:4729" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MidiJack/Midi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <marker date="1492994546000" expanded="true" signature="0:1170" ph="/* MidiJack - MIDI Input Plugin for Unity ... */" />
+            <marker date="1492994546000" expanded="true" signature="1189:2457" ph="{...}" />
+            <marker date="1492994546000" expanded="true" signature="1245:1510" ph="{...}" />
+            <marker date="1492994546000" expanded="true" signature="1571:2455" ph="{...}" />
+            <marker date="1492994546000" expanded="true" signature="1796:2014" ph="{...}" />
+            <marker date="1492994546000" expanded="true" signature="2092:2244" ph="{...}" />
+            <marker date="1492994546000" expanded="true" signature="2287:2449" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MidiJack/MidiStateUpdater.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <marker date="1492879458000" expanded="true" signature="0:1170" ph="/* MidiJack - MIDI Input Plugin for Unity ... */" />
+            <marker date="1492879458000" expanded="true" signature="1209:1757" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="1261:1755" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="1372:1652" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="1704:1749" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConstantStrings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding>
+            <marker date="1634546845530" expanded="false" signature="6:78" ph="..." />
+            <marker date="1634546845530" expanded="true" signature="108:790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CourseTouchIntroScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+          <folding>
+            <marker date="1634548197824" expanded="true" signature="6:135" ph="..." />
+            <marker date="1634548197824" expanded="true" signature="188:1718" ph="{...}" />
+            <marker date="1634548197824" expanded="true" signature="561:1024" ph="{...}" />
+            <marker date="1634548197824" expanded="true" signature="1082:1103" ph="{...}" />
+            <marker date="1634548197824" expanded="true" signature="1140:1215" ph="{...}" />
+            <marker date="1634548197824" expanded="true" signature="1243:1377" ph="{...}" />
+            <marker date="1634548197824" expanded="true" signature="1403:1541" ph="{...}" />
+            <marker date="1634548197824" expanded="true" signature="1567:1708" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CourseSheetLaneScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="92" column="11" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
+          <folding>
+            <marker date="1634546427133" expanded="true" signature="6:92" ph="..." />
+            <marker date="1634546427133" expanded="true" signature="144:2673" ph="{...}" />
+            <marker date="1634546427133" expanded="true" signature="463:531" ph="{...}" />
+            <marker date="1634546427133" expanded="true" signature="602:688" ph="{...}" />
+            <marker date="1634546427133" expanded="true" signature="746:767" ph="{...}" />
+            <marker date="1634546427133" expanded="true" signature="852:2430" ph="{...}" />
+            <marker date="1634546427133" expanded="true" signature="906:1519" ph="{...}" />
+            <marker date="1634546427133" expanded="true" signature="1544:2423" ph="{...}" />
+            <marker date="1634546427133" expanded="true" signature="1608:1688" ph="{...}" />
+            <marker date="1634546427133" expanded="true" signature="2468:2671" ph="{...}" />
+            <marker date="1634546427133" expanded="true" signature="2531:2610" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/StencilMaterial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <marker date="1621940892000" expanded="false" signature="6:76" ph="..." />
+            <marker date="1621940892000" expanded="true" signature="102:6657" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="109:306" ph="/// Dynamic material class makes it possible to create custom materials on the fly on a per-Graphic basis, ... " />
+            <marker date="1621940892000" expanded="true" signature="346:6655" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="383:828" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="1146:1254" ph="/// Add a new material using the specified base and stencil ID. ... " />
+            <marker date="1621940892000" expanded="true" signature="1407:1525" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="1535:1643" ph="/// Add a new material using the specified base and stencil ID. ... " />
+            <marker date="1621940892000" expanded="true" signature="1825:5559" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="2011:2178" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="2230:2399" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="2453:2624" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="2682:2857" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="2916:3092" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="3144:3313" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="3404:3945" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="3820:3931" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="5569:5701" ph="/// Remove an existing material, automatically cleaning it up if it's no longer in use. ... " />
+            <marker date="1621940892000" expanded="true" signature="5755:6311" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="5915:6301" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="6089:6263" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="6350:6649" ph="{...}" />
+            <marker date="1621940892000" expanded="true" signature="6450:6611" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/PlayMidiToNote.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="536" column="11" selection-start-line="536" selection-start-column="11" selection-end-line="585" selection-end-column="12" />
+          <folding>
+            <marker date="1634325529009" expanded="false" signature="6:131" ph="..." />
+            <marker date="1634325529009" expanded="true" signature="176:27958" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="1020:1144" ph="/* Container to contain all the sheet music note symbol ... */" />
+            <marker date="1634325529009" expanded="true" signature="2419:2460" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="2586:5673" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="2610:2797" ph="/* TODO: Please remember to call the static file path of the midi file from SongSelection script in SongSelection ... */" />
+            <marker date="1634325529009" expanded="true" signature="3079:3311" ph="/* Make all the neccessary boolean in the receptor true. ... */" />
+            <marker date="1634325529009" expanded="true" signature="4042:4248" ph="/* BetterStreaming Assets ... */" />
+            <marker date="1634325529009" expanded="true" signature="4275:4382" ph="/* Android ... */" />
+            <marker date="1634325529009" expanded="true" signature="4931:5128" ph="/* Get the Midi file directory from the calling Song Selection Script scene ... */" />
+            <marker date="1634325529009" expanded="true" signature="5139:5391" ph="/* Note is extracted from the midi files ... */" />
+            <marker date="1634325529009" expanded="true" signature="5455:5591" ph="/* while (spawnIndex &lt; 20) ... */" />
+            <marker date="1634325529009" expanded="true" signature="5731:6102" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="5871:5919" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="5973:6024" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="6198:7267" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="6269:7251" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="6413:6631" ph="/* MusicNoteText.text = $&quot;Millisecond: {DateTime.Now.Millisecond}&quot;; ... */" />
+            <marker date="1634325529009" expanded="true" signature="6756:7214" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="7308:7403" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="7607:11467" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="7715:11443" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="7863:9659" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="7964:9645" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="9725:11376" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="9816:11362" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="11544:12711" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="11649:11728" ph="/* if (maxTrebleKeyArray.Count == 15 || maxBassKeyArray.Count == 15) ... */" />
+            <marker date="1634325529009" expanded="true" signature="11780:11864" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="11914:11998" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="12167:12388" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="12218:12365" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="12401:12651" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="12479:12641" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="12741:15910" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="12942:14410" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="13044:14396" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="14464:15787" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="14555:15773" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="15813:15881" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="16010:17861" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="16068:17845" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="16473:17821" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="16548:17100" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="16868:17046" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="17152:17687" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="17457:17635" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="17963:21612" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="18262:18654" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="18324:18408" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="18458:18542" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="18762:21588" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="18881:20265" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="18974:20251" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="20319:21552" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="20410:21538" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="21652:22864" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="21757:22858" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="21836:21995" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="22125:22466" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="22487:22831" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="22891:23338" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="22990:23332" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="23160:23322" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="23374:23496" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="23527:23596" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="23629:24071" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="24099:24207" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="24237:24288" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="24319:24581" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="24614:24809" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="24836:24866" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="24906:26477" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="24952:26471" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="25020:25716" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="25113:25702" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="25770:26422" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="25861:26408" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="26525:26743" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="26781:27946" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="26880:27940" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="27318:27930" ph="{...}" />
+            <marker date="1634325529009" expanded="true" signature="27432:27885" ph="/* if (PianoKeyDetector.PianoNotes.ContainsKey(MidiNotes[_noteIndex].Note)) ... */" />
+            <marker date="1634325529009" expanded="true" signature="28003:28173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MidiNoteReceptor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+          <folding>
+            <marker date="1634516622402" expanded="false" signature="6:78" ph="..." />
+            <marker date="1634516622402" expanded="true" signature="125:1242" ph="{...}" />
+            <marker date="1634516622402" expanded="true" signature="1140:1161" ph="{...}" />
+            <marker date="1634516622402" expanded="true" signature="1219:1240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CoursePianoPanelScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2658">
+          <caret line="204" column="31" selection-start-line="204" selection-start-column="31" selection-end-line="204" selection-end-column="31" />
+          <folding>
+            <marker date="1634548852656" expanded="true" signature="6:233" ph="..." />
+            <marker date="1634548852656" expanded="true" signature="286:4675" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="907:1214" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="1272:1966" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="1308:1950" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="1398:1927" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="1453:1541" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="1583:1681" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="1710:1792" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="1822:1912" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="1984:2312" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="2019:2102" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="2127:2212" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="2237:2306" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="2394:2706" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="2593:2657" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="2801:3268" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="3025:3089" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="3123:3181" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="3194:3260" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="3309:3691" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="3462:3685" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="3738:4111" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="3883:4105" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="4165:4583" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="4310:4532" ph="{...}" />
+            <marker date="1634548852656" expanded="true" signature="4614:4673" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/SheetNoteScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3006">
+          <caret line="208" column="10" selection-start-line="208" selection-start-column="10" selection-end-line="208" selection-end-column="10" />
+          <folding>
+            <marker date="1634548788932" expanded="true" signature="6:154" ph="..." />
+            <marker date="1634548788932" expanded="true" signature="200:5147" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="776:797" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="855:1050" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="1130:1234" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="1274:1318" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="1412:2897" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="1460:2891" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="1532:2881" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="1879:2051" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="2133:2867" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="2236:2489" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="2523:2753" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="2919:3685" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="3001:3660" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="3531:3596" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="3708:5127" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="3844:5111" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="4219:4375" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="4453:5064" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="4548:4746" ph="{...}" />
+            <marker date="1634548788932" expanded="true" signature="4780:4958" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Augmented_Estate/Assets/AugmentedEstate/Script/LoginScript/LoginManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1115">
+          <folding>
+            <element signature="e#0#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Augmented_Estate/Assets/Codelab/Scripts/CodelabUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/SheetLaneScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <marker date="1634498257411" expanded="false" signature="6:78" ph="..." />
+            <marker date="1634498257411" expanded="true" signature="124:1564" ph="{...}" />
+            <marker date="1634498257411" expanded="true" signature="532:644" ph="{...}" />
+            <marker date="1634498257411" expanded="true" signature="702:723" ph="{...}" />
+            <marker date="1634498257411" expanded="true" signature="796:1561" ph="{...}" />
+            <marker date="1634498257411" expanded="true" signature="849:1551" ph="{...}" />
+            <marker date="1634498257411" expanded="true" signature="1189:1303" ph="/* note.transform.localPosition += ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/SongSelection Scripts/SongSelectionScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-735">
+          <caret line="30" column="71" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
+          <folding>
+            <marker date="1634554519177" expanded="true" signature="6:135" ph="..." />
+            <marker date="1634554519177" expanded="true" signature="185:2928" ph="{...}" />
+            <marker date="1634554519177" expanded="true" signature="535:1030" ph="{...}" />
+            <marker date="1634554519177" expanded="true" signature="1093:1114" ph="{...}" />
+            <marker date="1634554519177" expanded="true" signature="1156:1334" ph="{...}" />
+            <marker date="1634554519177" expanded="true" signature="1375:1547" ph="{...}" />
+            <marker date="1634554519177" expanded="true" signature="1589:1778" ph="{...}" />
+            <marker date="1634554519177" expanded="true" signature="1812:1976" ph="{...}" />
+            <marker date="1634554519177" expanded="true" signature="2016:2185" ph="{...}" />
+            <marker date="1634554519177" expanded="true" signature="2218:2237" ph="{...}" />
+            <marker date="1634554519177" expanded="true" signature="2273:2350" ph="{...}" />
+            <marker date="1634554519177" expanded="true" signature="2395:2925" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/SplashScreen Script/SplashScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <marker date="1634564196275" expanded="false" signature="6:140" ph="..." />
+            <marker date="1634564196275" expanded="true" signature="183:736" ph="{...}" />
+            <marker date="1634564196275" expanded="true" signature="255:502" ph="{...}" />
+            <marker date="1634564196275" expanded="true" signature="279:439" ph="/* if (!Permission.HasUserAuthorizedPermission(Permission.Microphone)) ... */" />
+            <marker date="1634564196275" expanded="true" signature="533:655" ph="{...}" />
+            <marker date="1634564196275" expanded="true" signature="713:734" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MidiJack/MidiDroid/MidiDroid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+          <folding>
+            <marker date="1634564653503" expanded="false" signature="6:114" ph="..." />
+            <marker date="1634564653503" expanded="true" signature="134:7548" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="163:7530" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="692:2005" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="789:898" ph="/* _class = new AndroidJavaClass(&quot;mmmlabs.com.mididroid.MidiDroid&quot;); ... */" />
+            <marker date="1634564653503" expanded="true" signature="1278:1375" ph="/* midiCallback = new MidiReceiver(); ... */" />
+            <marker date="1634564653503" expanded="true" signature="1510:1957" ph="/* string currentDeviceName = UnityEngine.PlayerPrefs.GetString(&quot;MidiDroidDevice&quot;, &quot;&quot;); ... */" />
+            <marker date="1634564653503" expanded="true" signature="2056:2996" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="2329:2805" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="2822:2971" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="3058:3134" ph="{...}" />
+            <marker date="1634564653503" expanded="false" signature="3144:5513" ph="MidiJack Methods" />
+            <marker date="1634564653503" expanded="true" signature="3212:4646" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="3406:4466" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="3612:3874" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="3651:3856" ph="/* return empty message ... */" />
+            <marker date="1634564653503" expanded="true" signature="3895:4452" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="4051:4212" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="4233:4434" ph="/* m.source = (uint)currentDevice; ... */" />
+            <marker date="1634564653503" expanded="true" signature="4483:4614" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="4690:5221" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="4746:5105" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="4904:5004" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="5025:5091" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="5122:5176" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="5266:5308" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="5361:5403" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="5451:5494" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="5577:5888" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="5701:5851" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="5769:5837" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="5942:6158" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="6199:6585" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="6279:6376" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="6473:6533" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="6622:7519" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="6895:7316" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="7171:7302" ph="{...}" />
+            <marker date="1634564653503" expanded="true" signature="7333:7482" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Example Note/NoteIndicatorGroup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1492879458000" expanded="true" signature="67:372" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="117:370" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="161:364" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Example Note/NoteIndicator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1634311372021" expanded="true" signature="6:34" ph="..." />
+            <marker date="1634311372021" expanded="true" signature="78:868" ph="{...}" />
+            <marker date="1634311372021" expanded="true" signature="126:866" ph="{...}" />
+            <marker date="1634311372021" expanded="true" signature="245:378" ph="/* var color = MidiMaster.GetKeyDown(noteNumber) ? Color.red : Color.white; ... */" />
+            <marker date="1634311372021" expanded="true" signature="426:618" ph="{...}" />
+            <marker date="1634311372021" expanded="true" signature="631:824" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MidiJack/MidiDroid/MidiDroidCallback.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+          <folding>
+            <marker date="1634564653598" expanded="false" signature="6:32" ph="..." />
+            <marker date="1634564653598" expanded="true" signature="52:1868" ph="{...}" />
+            <marker date="1634564653598" expanded="true" signature="107:1866" ph="{...}" />
+            <marker date="1634564653598" expanded="true" signature="208:228" ph="{...}" />
+            <marker date="1634564653598" expanded="true" signature="316:336" ph="{...}" />
+            <marker date="1634564653598" expanded="true" signature="354:461" ph="/* public MidiDroidCallback() : base(&quot;mmmlabs.com.mididroid.MidiCallback&quot;) ... */" />
+            <marker date="1634564653598" expanded="true" signature="710:1851" ph="{...}" />
+            <marker date="1634564653598" expanded="true" signature="1036:1136" ph="{...}" />
+            <marker date="1634564653598" expanded="true" signature="1153:1418" ph="{...}" />
+            <marker date="1634564653598" expanded="true" signature="1450:1788" ph="{...}" />
+            <marker date="1634564653598" expanded="true" signature="1507:1774" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/CourseTaskScene Script/CourseTaskScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="70" column="5" selection-start-line="50" selection-start-column="3" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <marker date="1634550622985" expanded="false" signature="6:135" ph="..." />
+            <marker date="1634550622985" expanded="true" signature="182:2089" ph="{...}" />
+            <marker date="1634550622985" expanded="true" signature="398:698" ph="{...}" />
+            <marker date="1634550622985" expanded="true" signature="756:777" ph="{...}" />
+            <marker date="1634550622985" expanded="true" signature="811:886" ph="{...}" />
+            <marker date="1634550622985" expanded="true" signature="924:1077" ph="{...}" />
+            <marker date="1634550622985" expanded="true" signature="1116:1270" ph="{...}" />
+            <marker date="1634550622985" expanded="true" signature="1344:2087" ph="{...}" />
+            <marker date="1634550622985" expanded="true" signature="1608:2081" ph="{...}" />
+            <marker date="1634550622985" expanded="true" signature="1813:2068" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MidiJack/MidiDriver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="184" column="20" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="20" />
+          <folding>
+            <marker date="1634564653419" expanded="true" signature="0:1170" ph="/* MidiJack - MIDI Input Plugin for Unity ... */" />
+            <marker date="1634564653419" expanded="false" signature="1177:1261" ph="..." />
+            <marker date="1634564653419" expanded="true" signature="1281:12132" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="1311:12130" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="1326:2108" ph="Internal Data" />
+            <marker date="1634564653419" expanded="true" signature="1375:1957" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="1398:1641" ph="/* Note state array ... */" />
+            <marker date="1634564653419" expanded="true" signature="1817:1947" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="2118:3425" ph="Accessor Methods" />
+            <marker date="1634564653419" expanded="true" signature="2208:2425" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="2494:2619" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="2686:2811" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="2869:3100" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="3187:3405" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="3435:3921" ph="Event Delegates" />
+            <marker date="1634564653419" expanded="true" signature="3931:4827" ph="Editor Support" />
+            <marker date="1634564653419" expanded="true" signature="4120:4397" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="4274:4361" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="4500:4620" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="4518:4610" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="4736:4791" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="4837:5245" ph="Public Methods" />
+            <marker date="1634564653419" expanded="true" signature="4881:5225" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="5255:8843" ph="Private Methods" />
+            <marker date="1634564653419" expanded="true" signature="5309:5832" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="5383:5668" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="5484:5654" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="5685:5822" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="5855:8823" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="5955:6313" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="6015:6299" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="6448:8638" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="6909:7338" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="7456:7794" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="7865:8440" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="8853:11163" ph="Native Plugin Interface" />
+            <marker date="1634564653419" expanded="true" signature="11165:12124" ph="Singleton Class Instance" />
+            <marker date="1634564653419" expanded="true" signature="11279:12104" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="11297:12094" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="11338:12046" ph="{...}" />
+            <marker date="1634564653419" expanded="true" signature="11499:12028" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Useful Script/PlayMidiOnPiano/MidiPianoController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="118" column="44" selection-start-line="118" selection-start-column="44" selection-end-line="118" selection-end-column="44" />
+          <folding>
+            <marker date="1634564094849" expanded="true" signature="6:149" ph="..." />
+            <marker date="1634564094849" expanded="true" signature="199:4626" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="988:1516" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="1574:1647" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="1677:2920" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="1767:2718" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="1906:2708" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="2763:2914" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="2956:3983" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="3023:3088" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="3101:3195" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="4024:4137" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="4176:4423" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="4464:4534" ph="{...}" />
+            <marker date="1634564094849" expanded="true" signature="4565:4624" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MidiJack/MidiMaster.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <marker date="1492879458000" expanded="true" signature="0:1170" ph="/* MidiJack - MIDI Input Plugin for Unity ... */" />
+            <marker date="1492879458000" expanded="true" signature="1189:3783" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="1226:3781" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="1328:1466" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="1533:1673" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="1734:1868" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="2001:2089" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="2141:2237" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="2387:2479" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="2534:2634" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="2778:2868" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="2921:3019" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="3124:3208" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="3254:3346" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="3484:3587" ph="{...}" />
+            <marker date="1492879458000" expanded="true" signature="3664:3775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KeysScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <marker date="1634715090312" expanded="true" signature="6:116" ph="..." />
+            <marker date="1634715090312" expanded="true" signature="157:5591" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="407:505" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="563:1000" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="788:965" ph="/* if (!MidiNoteReceptor.isMicrophonePitchDetectionUsed) ... */" />
+            <marker date="1634715090312" expanded="true" signature="1007:2107" ph="Midi Key Indicator" />
+            <marker date="1634715090312" expanded="true" signature="1075:1758" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="1184:1386" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="1399:1451" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="1544:1621" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="1634:1708" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="1786:1827" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="1855:1914" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="1966:2090" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="2150:3543" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="2221:2694" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="2287:2663" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="2390:2624" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="2741:2952" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="2864:2936" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="2993:3147" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="3061:3133" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="3189:3535" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="3449:3521" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="3569:3622" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="3643:3723" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="3758:3844" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="3865:4027" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="3925:4021" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="4058:4262" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="4290:4777" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="4386:4771" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="4504:4747" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="4846:5589" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="5110:5583" ph="{...}" />
+            <marker date="1634715090312" expanded="true" signature="5315:5570" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

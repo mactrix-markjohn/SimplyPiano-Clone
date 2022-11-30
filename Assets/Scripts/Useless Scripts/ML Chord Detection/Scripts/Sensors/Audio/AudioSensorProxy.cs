@@ -1,0 +1,74 @@
+﻿using Unity.MLAgents.Sensors;
+
+namespace MBaske.Sensors.Audio
+{
+    /// <summary>
+    /// Sensor proxy that refers to an <see cref="AudioSensor"/>.
+    /// </summary>
+    public class AudioSensorProxy : ISensor
+    {
+        public SensorObservationShape Shape => m_AudioSensor.Shape;
+        public SensorCompressionType CompressionType => m_AudioSensor.CompressionType;
+
+        private readonly AudioSensor m_AudioSensor;
+
+        /// <summary>
+        /// Initializes the sensor.
+        /// </summary>
+        /// <param name="audioSensor">The <see cref="AudioSensor"/> to refer to.</param>
+        public AudioSensorProxy(AudioSensor audioSensor)
+        {
+            m_AudioSensor = audioSensor;
+        }
+
+        /*public CompressionSpec GetCompressionSpec()
+        {
+            //throw new System.NotImplementedException();
+            
+            return new CompressionSpec();
+        }*/
+
+        /// <inheritdoc/>
+        public string GetName()
+        {
+            return m_AudioSensor.GetName() + "_Proxy";
+        }
+
+        /// <inheritdoc/>
+        public int[] GetObservationShape()
+        {
+            return m_AudioSensor.Shape.ToArray();
+        }
+
+        /// <inheritdoc/>
+        public SensorCompressionType GetCompressionType()
+        {
+            return m_AudioSensor.CompressionType;
+        }
+
+        /// <inheritdoc/>
+        public byte[] GetCompressedObservation()
+        {
+            return m_AudioSensor.CachedCompressedObservation;
+        }
+
+        /*public ObservationSpec GetObservationSpec()
+        {
+            //
+            
+            return new ObservationSpec();
+        }*/
+
+        /// <inheritdoc/>
+        public int Write(ObservationWriter writer)
+        {
+            return m_AudioSensor.Write(writer);
+        }
+
+        /// <inheritdoc/>
+        public void Update() { }
+
+        /// <inheritdoc/>
+        public void Reset() { }
+    }
+}

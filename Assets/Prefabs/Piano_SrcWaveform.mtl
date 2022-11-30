@@ -1,0 +1,13 @@
+# Exported from 3D Builder
+
+newmtl Black_0
+Kd 0.000000 0.000000 0.000000
+
+newmtl White_0
+Kd 0.800000 0.800000 0.800000
+
+newmtl Red_0
+Kd 0.522522 0.000000 0.000000
+
+newmtl Red_Plastic_0
+Kd 0.447988 0.036306 0.036306
